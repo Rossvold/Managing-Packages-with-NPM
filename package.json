@@ -1,4 +1,5 @@
 {
+	"keywords": [ "Fcc", "FreeCodeCamp", "Tasks" ],
 	"description": "Fcc task adding a description",
 	"author": "Rossvold",
 	"name": "fcc-learn-npm-package-json",
